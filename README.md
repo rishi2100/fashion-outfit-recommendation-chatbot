@@ -42,5 +42,5 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 4. **Run the app:**
    ```bash
    python app.py
-5  **Visit:**
-   http://localhost:5000
+5.  **Visit:**
+    http://localhost:5000
