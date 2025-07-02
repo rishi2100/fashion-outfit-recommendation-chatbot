@@ -7,8 +7,8 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 ## 📌 Project Features
 
 - 🧠 **Chatbot Interface** for natural interactions  
-- 🖼️ **Image Upload Support** — get outfit recommendations by uploading a picture  
-- 🔍 **Text-to-Image Retrieval** — search using descriptive fashion terms  
+- 🔍 **Text-to-Image Retrieval** — search using descriptive fashion terms
+- 🧠 Uses **BERT** for understanding user fashion descriptions  
 - 🔄 **Multimodal Fusion** — combine text + image inputs for better results  
 - 📚 Powered by pretrained models and a custom-trained fashion dataset
 
@@ -18,10 +18,13 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 
 | Area            | Technologies Used                            |
 |-----------------|-----------------------------------------------|
+| Notebook        | Jupyter Notebook                              |
 | Backend         | Python                                        |
+| CV Model        | ResNet50 (via torchvision)                    |
+| NLP Model       | BERT (via Hugging Face Transformers)          |
 | AI/ML Models    | ResNet50 (CV), BERT (NLP), FAISS, PCA         |
-| Dataset         | DeepFashion (with custom preprocessing)       |
-| Others          | Jupyter Notebook, OpenCV, NumPy, Pandas       |
+| Dataset         | DeepFashion or custom folder-based images     |
+| Others          | OpenCV, NumPy, Pandas                         |
 
 ---
 
@@ -45,7 +48,7 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 5.  **Visit:**
     http://localhost:5000
 
-## Coming Feature (STAY TUNED):
+## Coming Features (STAY TUNED):
    Chatbot UI,
-   RestNet model 
+   - 🖼️ Image Upload Support— to get outfit recommendations by uploading a picture & RestNet model for extracting visual features from clothing images.
 
