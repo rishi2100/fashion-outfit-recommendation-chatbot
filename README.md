@@ -48,7 +48,7 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 5.  **Visit:**
     http://localhost:5000
 
-## Coming Features (STAY TUNED):
-   Chatbot UI,
+## ⏳ Coming Features (STAY TUNED):
+   - Chatbot UI
    - 🖼️ Image Upload Support— to get outfit recommendations by uploading a picture & RestNet model for extracting visual features from clothing images.
 
