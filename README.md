@@ -1,4 +1,4 @@
-# 👗 Fashion Outfit Recommendation Chatbot
+# 👔👗 Fashion Outfit Recommendation Chatbot
 
 A smart, multimodal AI chatbot that recommends fashion outfits based on text queries. This project combines computer vision and natural language processing to provide intelligent, personalized clothing suggestions.
 
