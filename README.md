@@ -1,6 +1,6 @@
 # 👗 Fashion Outfit Recommendation Chatbot
 
-A smart, multimodal AI chatbot that recommends fashion outfits based on text queries, image uploads, or both. This project combines computer vision and natural language processing to provide intelligent, personalized clothing suggestions.
+A smart, multimodal AI chatbot that recommends fashion outfits based on text queries. This project combines computer vision and natural language processing to provide intelligent, personalized clothing suggestions.
 
 ---
 
@@ -10,7 +10,6 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 - 🖼️ **Image Upload Support** — get outfit recommendations by uploading a picture  
 - 🔍 **Text-to-Image Retrieval** — search using descriptive fashion terms  
 - 🔄 **Multimodal Fusion** — combine text + image inputs for better results  
-- 🌐 **Web Interface** built with Flask  
 - 📚 Powered by pretrained models and a custom-trained fashion dataset
 
 ---
@@ -19,9 +18,8 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 
 | Area            | Technologies Used                            |
 |-----------------|-----------------------------------------------|
-| Backend         | Python, Flask                                 |
+| Backend         | Python                                        |
 | AI/ML Models    | ResNet50 (CV), BERT (NLP), FAISS, PCA         |
-| Frontend        | HTML5, CSS3, JavaScript                       |
 | Dataset         | DeepFashion (with custom preprocessing)       |
 | Others          | Jupyter Notebook, OpenCV, NumPy, Pandas       |
 
