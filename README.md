@@ -42,11 +42,12 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
 3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-4. **Run the app:**
+4. **launch the notenook:**
    ```bash
-   python app.py
-5.  **Visit:**
-    http://localhost:5000
+   jupyter notebook
+4. **Open & Run the notenook:**
+   Locate and open fashion-outfit-recommendation-chatbot.ipynb
+   Run the cells step-by-step to test text- or image-based outfit recommendations
 
 ## ⏳ Coming Features (STAY TUNED):
    - Chatbot UI
