@@ -1,0 +1,17 @@
+flask
+numpy
+pandas
+opencv-python
+torch
+torchvision
+transformers
+faiss-cpu
+scikit-learn
+matplotlib
+Pillow
+jinja2
+
+#Optional
+flask-cors
+gunicorn          # If deploying to a production server
+notebook          # Only for development
