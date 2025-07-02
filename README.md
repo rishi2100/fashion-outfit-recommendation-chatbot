@@ -44,3 +44,8 @@ A smart, multimodal AI chatbot that recommends fashion outfits based on text que
    python app.py
 5.  **Visit:**
     http://localhost:5000
+
+## Coming Feature (STAY TUNED):
+   Chatbot UI,
+   RestNet model 
+
